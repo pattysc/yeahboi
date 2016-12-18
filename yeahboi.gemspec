@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.summary     = "yeah boiiiiiii"
   s.authors     = ["Patty SantaCruz"]
   s.email       = 'patty.stacruz@gmail.com'
-  s.homepage    = 'http://github.com/pattysc'
+  s.homepage    = 'http://github.com/pattysc/yeahboi'
   s.files       = ['lib/yeahboi.rb', 'audio/longestyeahboyever.wav']
   s.executables = ['yeahboi', 'yeahboilong']
 end
