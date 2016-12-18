@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'yeahboi'
+puts Yeahboi.short
